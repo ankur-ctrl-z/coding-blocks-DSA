@@ -40,7 +40,8 @@ The primary objectives of this repository are:
 While this is primarily my learning repository, feel free to fork it, suggest improvements, or open issues if you find bugs or areas for enhancement!
 
 ## 📢 Let's Connect!
-If you have any suggestions or questions, feel free to reach out. Happy coding! 🚀
+- 💼 **LinkedIn:** [Ankur Sharma](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
+- 💻 **X:** [@__ankur01__](https://X.com/u/__ankur01__/)
 
 
 
