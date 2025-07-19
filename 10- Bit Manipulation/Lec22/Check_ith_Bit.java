@@ -4,7 +4,7 @@ public class Check_ith_Bit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n = 84;
+		int n = 84; 
 		int i = 3;
 		// if we shift one with ith value and then we can compare with n to find the
 		// answer
