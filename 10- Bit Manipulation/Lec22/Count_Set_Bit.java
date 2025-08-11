@@ -1,6 +1,6 @@
 package Lec22;   
 
-public class Count_Set_Bit {
+public class Count_Set_Bit { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
