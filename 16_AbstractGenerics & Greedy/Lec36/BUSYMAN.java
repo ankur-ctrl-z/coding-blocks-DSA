@@ -1,6 +1,6 @@
 package Lec36;
 
-import java.util.Arrays;
+import java.util.Arrays; 
 import java.util.*;
 
 public class BUSYMAN {
