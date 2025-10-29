@@ -5,7 +5,7 @@ public class Lottery_Game {
 	public static void main(String[] args) {  
 		// TODO Auto-generated method stub
 		int n = 212;
-		if (n >= 300 && n <= 500) { 
+		if (n >= 300 && n <= 500) {  
 			System.out.println("car");
 		} else if (n >= 16 && n <= 25) {
 			System.out.println("Cycle");
